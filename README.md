@@ -18,7 +18,9 @@ I am a graduated Mechanical Engineer and currently studying front-end developmen
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorcavalcantilira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a><hr>
 
-##### Let's talk! Feel free to connect with me in Linkedin by clicking the button bellow 🔽
+# Contact
+
+Let's talk! Feel free to connect with me in Linkedin by clicking the button bellow 🔽
 
 
 <a href = "mailto:vitorcavalcantilira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
