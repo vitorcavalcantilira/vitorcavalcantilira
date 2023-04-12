@@ -2,7 +2,7 @@
 
 I am a graduated Mechanical Engineer and currently studying front-end development searching for remote works or projects.
 
-🧐 I’m currently learning Product Management and JAVA.
+🧐 I’m currently learning Product Management, JAVA and PYTHON.
 
 🔍 Also i'm interested in learning A.I in a near future.
 
