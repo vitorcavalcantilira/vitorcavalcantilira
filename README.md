@@ -2,11 +2,11 @@
 
 I am a graduated Mechanical Engineer and currently studying front-end development searching for remote works or projects.
 
-🧐 I’m currently learning Product Management, JAVA and PYTHON.
+🧐 I’m currently learning Python, SQL and Data Warahouse such as Snowflake and Google BigQuery.
 
 🔍 Also i'm interested in learning A.I in a near future.
 
-🤝 Lastly, i'm open to programming projects on front-end development. 
+🤝 Lastly, i'm open to Analytics Engineering projects. 
 
 😉 Pronouns: He/Him
 
